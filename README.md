@@ -1,2 +1,1 @@
-
-## My next js app
+## My next first js app
